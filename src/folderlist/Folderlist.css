@@ -1,0 +1,17 @@
+.Folderlist {
+    flex: 1;
+}
+
+.folder-item {
+    border: 1px solid #000;
+    list-style-type: none;
+    padding: 30px 30px;
+}
+
+.add-folder-button {
+    border: 1px solid #000;
+    padding: 35px 35px;
+    margin-top: 10px;
+    font-size: 1rem;
+    width: 95%;
+}
